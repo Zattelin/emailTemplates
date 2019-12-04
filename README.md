@@ -7,9 +7,18 @@ HTML email templates, for use in your marketing campaigns. Compatible with all m
 
 A minimalist template series. The Movement set is made up of three fully responsive templates, a newsletter, product announcement and transactional email template. Each section can be copied and re-used with no limitations. The beautiful, minimalist design makes the Movement templates suitable to use across industries, including fashion, SAAS, technical and sporting brands.
 
+https://zattelin.github.io/emailTemplates/movement/blog.html
+https://zattelin.github.io/emailTemplates/movement/product.html
+https://zattelin.github.io/emailTemplates/movement/re-opt-in.html
+https://zattelin.github.io/emailTemplates/movement/transactional.html
+
 ## [Adventure]
 
 Comprising of three fully responsive templates, Adventure is perfectly designed for a lifestyle or fashion startup. The three templates cover multiple use cases such as product announcements, blog posts, weekly newsletters or transactional emails.
+
+https://zattelin.github.io/emailTemplates/adventure/blog.html
+https://zattelin.github.io/emailTemplates/adventure/newsletter.html
+https://zattelin.github.io/emailTemplates/adventure/transactional.html
 
 
 ## Code formatting
